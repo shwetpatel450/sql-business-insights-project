@@ -125,4 +125,65 @@ FROM superstore;
 
 # Key Insights
 
-* Identified t
+* Identified top-performing regions and states
+* Detected loss-making products and cities
+* Analyzed customer purchasing behavior
+* Evaluated the impact of discounts on profitability
+* Compared category-wise sales and profit performance
+* Generated business insights using SQL analytics
+
+---
+
+# Tools Used
+
+* MySQL
+* SQL Workbench
+* GitHub
+
+---
+
+# Project Structure
+
+```text
+superstore-sql-analysis/
+│
+├── dataset/
+│   └── superstore.csv
+│
+├── queries/
+│   └── advanced_sql_queries.sql
+│
+├── screenshots/
+│   └── sql_outputs.png
+│
+└── README.md
+```
+
+---
+
+# Learning Outcomes
+
+Through this project, I improved my understanding of:
+
+* Writing advanced SQL queries
+* Solving business problems using data
+* Data aggregation and reporting
+* SQL analytical functions
+* Business insight generation
+
+---
+
+# Future Improvements
+
+* Create dashboards using Power BI or Tableau
+* Add KPI reporting
+* Perform predictive analytics
+* Optimize complex SQL queries
+
+---
+
+# Author
+
+Swet Patel
+
+Aspiring Data Analyst | Data Science Enthusiast
