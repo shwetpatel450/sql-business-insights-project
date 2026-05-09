@@ -146,15 +146,10 @@ FROM superstore;
 
 ```text
 superstore-sql-analysis/
+│ 
+│——— superstore.csv
 │
-├── dataset/
-│   └── superstore.csv
-│
-├── queries/
-│   └── advanced_sql_queries.sql
-│
-├── screenshots/
-│   └── sql_outputs.png
+│——— advanced_sql_queries.sql
 │
 └── README.md
 ```
